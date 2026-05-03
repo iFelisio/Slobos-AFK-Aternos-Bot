@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KushtrimiSMP.aternos.me",
-    "port": 62688,
+    "ip": "kushtrimismp.falix.gg",
+    "port": 20064,
     "version": "",
     "try-creative": false
   },
